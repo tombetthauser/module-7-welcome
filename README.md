@@ -61,7 +61,7 @@ Here are some clone ideas that tend to be associated with successful student cap
 
 ---
 
-### Minimul Viable Product (Project)
+## Minimul Viable Product / Project
 
 Remember, a minimum viable product is the absolute least you can put out that is also a usable product. For your capstone project this means 2 fully functional CRUD features with validation error messages that are unequivocally intuitive and simple to use by someone who has never seen the app before.
 
