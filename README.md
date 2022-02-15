@@ -42,8 +42,8 @@ With all that said don't forget to pick something fun if you can. Regardless we'
 * [Module 7 Expectations](https://hackmd.io/@jwarren/Sycd24fId)
 * [Example Project Wiki (doesn't include readme or user stories)](https://github.com/chrisoney/mercenary-review/wiki)
 * [Asking Good Questions](https://hackmd.io/@jwarren/Hkt6Ew9S_)
-* Express Project Starter
-* Flask Project Starter
+* [Express Project Starter](https://drive.google.com/file/d/16wNaP57ICFULb1F3YeZ4MH80hWrUZO8-/view)
+* [Flask Project Starter](https://github.com/appacademy-starters/python-project-starter)
 
 ---
 
