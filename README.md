@@ -71,3 +71,25 @@ Remember, a successful capsone project does not need AWS, Google Maps, Web Socke
 
 ![mvps](https://i.imgur.com/vfIpcWn.png)
 
+
+---
+
+## Daily Standups
+
+Daily standups will take place between groups of 3-5 students from your circle. Each student will take roughly 5 minutes to screen-share their deployed app and code. Specific standup times will always be announced in your circle channel. TA's will ask students a small handful of questions while taking brief notes that are shared with the rest of the module 7 team as well as the PTMs and the Career Quest team.
+
+### Questions for Students:
+
+* When did you last deploy?
+* Is all the code you are showing deployed?
+* What progress did you make on your goal from yesterday?
+* What is your goal for today that you plan to complete before next standup? 
+* Does your lead circle TA approve of the goal?
+* What is your project status in terms of user stories?
+
+### Other Standup Notes
+
+* If technical questions come up your circle TA will ask you to put them into the lecture questions channel asap as we will not have time to debug during standups.
+* TAs will take notes regardless of whether your standup check in seems like it went well or not.
+* TA notes will include whether you met yesterdays goal fully / partially / not at all.
+* TA notes will also include 3-5 word description of your goal for tomorrow.
