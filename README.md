@@ -35,6 +35,8 @@ With all that said don't forget to pick something fun if you can. Regardless we'
 * [Exemplary API Routes](https://github.com/sezder/HQ/wiki/API-Routes)
 * [Exemplary Wireframes](https://github.com/chrisoney/mercenary-review/wiki/Wireframes-and-Front-End-Routes)
 
+<!-- [user stories requirements](https://docs.google.com/document/d/1LzfYEuvd-WcHkGVycn1d95kXgoIbvrAyzAkcR9C8z2g/edit) -->
+
 ---
 
 ## Other Useful Links
@@ -43,8 +45,12 @@ With all that said don't forget to pick something fun if you can. Regardless we'
 * [Example Project Wiki (doesn't include readme or user stories)](https://github.com/chrisoney/mercenary-review/wiki)
 * [Asking Good Questions](https://hackmd.io/@jwarren/Hkt6Ew9S_)
 * [Project Theme Expectations](https://github.com/tombetthauser/module-7-welcome/blob/main/Project%20Theme%20Expectations%20-%20Student%20Facing%20Discussion.pdf)
+* [Free Development Design Resources](https://github.com/bradtraversy/design-resources-for-developers#stock-photos)
 * [Express Project Starter](https://drive.google.com/file/d/16wNaP57ICFULb1F3YeZ4MH80hWrUZO8-/view)
 * [Flask Project Starter](https://github.com/appacademy-starters/python-project-starter)
+
+<!-- [New Asking Questions Guide with Emojis](https://docs.google.com/document/d/1LMgYJ0TgZBdbE-D7rEQLAXyRWesSJl5aR_H2KPUJhCQ/edit#) -->
+<!-- [Leah's Module 6 Link](https://docs.google.com/spreadsheets/d/1GyViJX0PZxBcgtkcurtHMGEgI08YitHX1M_vpHmV1rU/edit#gid=0) -->
 
 ---
 
