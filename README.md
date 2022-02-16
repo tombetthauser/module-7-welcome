@@ -43,7 +43,6 @@ With all that said don't forget to pick something fun if you can. Regardless we'
 * [Example Project Wiki (doesn't include readme or user stories)](https://github.com/chrisoney/mercenary-review/wiki)
 * [Asking Good Questions](https://hackmd.io/@jwarren/Hkt6Ew9S_)
 * [Project Theme Expectations](https://github.com/tombetthauser/module-7-welcome/blob/main/Project%20Theme%20Expectations%20-%20Student%20Facing%20Discussion.pdf)
-
 * [Express Project Starter](https://drive.google.com/file/d/16wNaP57ICFULb1F3YeZ4MH80hWrUZO8-/view)
 * [Flask Project Starter](https://github.com/appacademy-starters/python-project-starter)
 
