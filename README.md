@@ -5,6 +5,10 @@
 
 Welcome to module 7 and your capstone project! Essentially the final push before the finish line of graduation. This repo holds some links and information that you'll need during the module, especially during the first few days when you'll be proposing your capstone project ideas for approval.
 
+```txt
+⚠️ IMPORTANT NOTE: If you are checking this out before your first capstone week officially begins please make sure you are keeping your pre-capstone project your top priority. All of this should be considered secondary until that project is done.
+```
+
 ---
 
 ## Module Calendar
@@ -58,15 +62,17 @@ With all that said don't forget to pick something fun if you can. Regardless we'
 
 Here are some clone ideas that tend to be associated with successful student capstone projects from the perspective of the TAs. Some are less work than others, specifically those that can go without AWS and there are definitely more that can be added here, but these ones often correlate with successful and strong looking final projects so keep them in mind. 
 
-* Instagram
-* Air BnB
-* Yelp
-* Quora
-* Reddit
-* Remember the Milk
-* New York Times Recipes
-* Evernote
-* Robinhood
+* [Instagram](https://www.instagram.com/)
+* [Air BnB](https://www.airbnb.com/)
+* [Yelp](https://www.yelp.com/)
+* [Quora](https://www.quora.com/?share=1)
+* [Reddit](https://www.reddit.com/)
+* [Todoist](https://todoist.com/) (Remember the Milk but with a more modern UI)
+* [New York Times Recipes](https://cooking.nytimes.com/)
+* [Evernote](https://evernote.com/)
+* [West Elm](https://www.westelm.com/)
+* [Robinhood](https://robinhood.com/us/en/)
+* [Trello](https://trello.com/)
 
 ---
 
