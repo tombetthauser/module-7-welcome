@@ -58,9 +58,9 @@ With all that said don't forget to pick something fun if you can. Regardless we'
 
 ---
 
-## Projects That Generally Succeed
+## Projects with Strong Success Rates
 
-Here are some clone ideas that tend to be associated with successful student capstone projects from the perspective of the TAs. Some are less work than others, specifically those that can go without AWS and there are definitely more that can be added here, but these ones often correlate with successful and strong looking final projects so keep them in mind. 
+Here are some clone ideas that tend to be associated with successful student capstone projects from the perspective of the TAs, although they are of course no garuantee of success. Some are less work than others, specifically those that can go without AWS and there are definitely more that can be added here, but these ones often correlate with successful and strong looking final projects so keep them in mind. 
 
 * [Instagram](https://www.instagram.com/)
 * [Air BnB](https://www.airbnb.com/)
