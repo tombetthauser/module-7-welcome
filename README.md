@@ -1,13 +1,16 @@
-![legos](https://c.tenor.com/PwEIXSJWhsQAAAAd/tenor.gif)
+<!-- ![legos](https://c.tenor.com/PwEIXSJWhsQAAAAd/tenor.gif) -->
+<!-- ![legos 3](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F155667%2Fscreenshots%2F3106656%2F10000-layers-of-legos.gif&f=1&nofb=1) -->
+<!-- ![red legos](https://i.giphy.com/media/l0JMrPWRQkTeg3jjO/giphy.webp) -->
+<!-- ![house2](https://i.pinimg.com/originals/46/cb/a9/46cba9f93a3d437db6d42f4bcd1a5f5f.gif) -->
 <!-- ![nyc](https://www.insideoutgroup.co.uk/wp-content/uploads/2018/02/One_World_Centre_Building_Time_Lapse-.gif) -->
 <!-- ![bbq](https://media.tenor.co/images/8a95f6c7faba89227ff436a250a53948/raw) -->
-<!-- ![house](https://i.pinimg.com/originals/21/a0/48/21a048683eac0167afde15a1dae633e0.gif) -->
+![house](https://i.pinimg.com/originals/21/a0/48/21a048683eac0167afde15a1dae633e0.gif)
 <!-- ![welcome](https://gifimage.net/wp-content/uploads/2017/09/animated-welcome-gif-12.gif) -->
 <!-- ![marathon](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.lowgif.com%2Fmedium%2F843ae510cfd8baba-ellen-gordon-cpas-4-a-cause-5k-run-walk.gif&f=1&nofb=1) -->
 
 # Tom's Module 7 Welcome Pack
 
-Welcome to module 7 and your capstone project! Essentially the final push before the finish line of graduation. This repo holds some links and information that you'll need during the module, especially during the first few days when you'll be proposing your capstone project ideas for approval.
+Welcome to Module 7 and your capstone project! Your final application construction project before graduation. This repo holds some links and information that you'll need during the module, especially during the first few days when you'll be proposing your capstone project ideas for approval.
 
 ```txt
 ⚠️ IMPORTANT NOTE: If you are checking this out before your first capstone week officially begins please make sure you are keeping your pre-capstone project your top priority. All of this should be considered secondary until that project is done.
