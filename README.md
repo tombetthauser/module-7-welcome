@@ -43,6 +43,26 @@ With all that said don't forget to pick something fun if you can. Regardless we'
 
 ---
 
+## Lecture Questions Emoji System
+
+Because the TA's are asked to answer all questions asynchronously when possible and because capstone issues can often take hours to address the TA's will use slack reaction emojis to communicate the status of your question. Please pay attention to these emojis and consider them official communication. If it seems odd to take emojis seriously welcome to the tech world!
+
+
+# 👀
+The eyeballs mean the TA's are aware of the question and are looking into it / discussing it in the Staff Room. There may be other questions ahead of yours and it make take minutes or hours to resolve the question based on the complexity of the problem and how clear the question was, if screenshots or commits were provided etc.
+
+# ✅
+The green check means the question seems to have been resolved by a TA or other student. If this isn't correct tag one of the TA's in the thread or re-post the question.
+
+# ⚠️
+The alert emoji means the question may not be specific enough or may not show clear evidence of independent student research on AAO, Stack Overflow, Google etc. 
+
+Before the TA's can effectively address the question the student will need to add more information, full-screen screenshots, a description of what you have done so far in terms of research and solution attempts and/or a link to the repo with a recent commit message clearly describing the issue.
+
+Once you have added to the question tag the TA who added the alert emoji in the question thread or re-post a new version of the question in the lecture questions channel.
+
+---
+
 ## Other Useful Links
 
 * [Module 7 Expectations](https://hackmd.io/@jwarren/Sycd24fId)
