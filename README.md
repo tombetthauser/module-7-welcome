@@ -152,6 +152,14 @@ Once you have added to the question tag the TA who added the alert emoji in the 
 
 # Phase 3 - Grading
 
+## Capstone Scorecards
+
+!(sample scorecard)[https://lh3.googleusercontent.com/oXWP12GslsA4LTultMPXC1CL8cNNx3EFcZTyiYduUfOspIBd7Bzf3kqlKSCcZ8j1DbAy2oqptbaM-3KajPpFNmVfbT24kxVqqzm7DnCYbuZqIu2U2wfcbye7AJHxB9Tz5w0vBon3hJ5_]
+
 ## Pre-Grading 
 
--->
+## Final Grading
+
+## Deferrals
+
+## Dismissals -->
