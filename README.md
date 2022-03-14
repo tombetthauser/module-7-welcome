@@ -91,8 +91,6 @@ Remember, a successful capsone project does not need AWS, Google Maps, Web Socke
 
 # Phase 2 - Project Development
 
----
-
 ## Daily Standups
 
 Daily standups will take place between groups of 3-5 students from your circle. Each student will take roughly 5 minutes to screen-share their deployed app and code. Specific standup times will always be announced in your circle channel. TA's will ask students a small handful of questions while taking brief notes that are shared with the rest of the module 7 team as well as the PTMs and the Career Quest team.
