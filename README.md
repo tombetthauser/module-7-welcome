@@ -23,7 +23,8 @@ This calendar is your primary resource for knowing what you should be working on
 
 You must submit this form and get approval from your lead circle TA before starting any work on your capstone project. Any work you do while waiting for approval may have to be completely re-done based on TA feedback.
 
-[Project Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSeGVXOG9IKf3iGPWZRcSMEepB8eS5xQEt4nGhmoFhQBBBBSWA/viewform?usp=sf_link) (updated)
+<!-- [Project Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSeGVXOG9IKf3iGPWZRcSMEepB8eS5xQEt4nGhmoFhQBBBBSWA/viewform?usp=sf_link) (updated) -->
+[Project Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLScBbMqc8VDb0VmOJduQf1ZEwZsxD3k1DL_uFzJ782LwgBXCZg/viewform?usp=sf_link)
 
 Don't over-complicate your capstone, this is essentially a 1.5 week project and the stakes are high. The simpler you keep this proposal, the faster it will be approved and the higher the chance will be that you will knock it out of the park and go on successfully into job search. Choose a project that you feel confident that you could build in half the time you're being given. This is the professional move for an engineer under a tight inflexible deadline.
 
@@ -31,7 +32,7 @@ With all that said don't forget to pick something fun if you can. Regardless we'
 
 ---
 
-## Project Documentation Example Links
+## Github Wiki Example Links
 
 * [Exemplary Readme](https://github.com/sezder/HQ/blob/main/README.md)
 * [Exemplary User Stories](https://github.com/sezder/HQ/wiki/User-Stories)
@@ -63,7 +64,7 @@ Once you have added to the question tag the TA who added the alert emoji in the 
 
 ---
 
-## Other Useful Links
+## Other Potentially Useful Links
 
 * [Module 7 Expectations](https://hackmd.io/@jwarren/Sycd24fId)
 * [Example Project Wiki (doesn't include readme or user stories)](https://github.com/chrisoney/mercenary-review/wiki)
@@ -72,6 +73,9 @@ Once you have added to the question tag the TA who added the alert emoji in the 
 * [Free Development Design Resources](https://github.com/bradtraversy/design-resources-for-developers#stock-photos)
 * [Express Project Starter](https://drive.google.com/file/d/16wNaP57ICFULb1F3YeZ4MH80hWrUZO8-/view)
 * [Flask Project Starter](https://github.com/appacademy-starters/python-project-starter)
+* [Flask-SQLAlchemy Quick Reference](https://hackmd.io/@app-academy/flask-sqlalchemy-reference)
+* [Flask AWS S3 for Image Uploads](https://hackmd.io/4yEAJpBXSWCZmI16J5ID1Q)
+* [Flask Websockets for Chat Features](https://hackmd.io/oTn-ZTjcQRO5Ghbv9tO9ug)
 
 <!-- [New Asking Questions Guide with Emojis](https://docs.google.com/document/d/1LMgYJ0TgZBdbE-D7rEQLAXyRWesSJl5aR_H2KPUJhCQ/edit#) -->
 <!-- [Leah's Module 6 Link](https://docs.google.com/spreadsheets/d/1GyViJX0PZxBcgtkcurtHMGEgI08YitHX1M_vpHmV1rU/edit#gid=0) -->
