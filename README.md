@@ -1,3 +1,7 @@
+![legos](https://c.tenor.com/PwEIXSJWhsQAAAAd/tenor.gif)
+<!-- ![nyc](https://www.insideoutgroup.co.uk/wp-content/uploads/2018/02/One_World_Centre_Building_Time_Lapse-.gif) -->
+<!-- ![bbq](https://media.tenor.co/images/8a95f6c7faba89227ff436a250a53948/raw) -->
+<!-- ![house](https://i.pinimg.com/originals/21/a0/48/21a048683eac0167afde15a1dae633e0.gif) -->
 <!-- ![welcome](https://gifimage.net/wp-content/uploads/2017/09/animated-welcome-gif-12.gif) -->
 <!-- ![marathon](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.lowgif.com%2Fmedium%2F843ae510cfd8baba-ellen-gordon-cpas-4-a-cause-5k-run-walk.gif&f=1&nofb=1) -->
 
@@ -64,12 +68,20 @@ Once you have added to the question tag the TA who added the alert emoji in the 
 
 ---
 
-## Other Potentially Useful Links
+## Appropriate Project Themes
 
-* [Module 7 Expectations](https://hackmd.io/@jwarren/Sycd24fId)
-* [Example Project Wiki (doesn't include readme or user stories)](https://github.com/chrisoney/mercenary-review/wiki)
-* [Asking Good Questions](https://hackmd.io/@jwarren/Hkt6Ew9S_)
+When picking your capstone project theme use common sense and think about it from the perspective of a recruiter and your future job coach. Our goal is not to censor your creativity or discourage you but we do have an official policy on appropriate project themes linked below and we encourage you all to check it out. Recently the most common issues are with projects related to weed / cannabis. We can't approve projects related to these themes because of federal legality, but that doesn't mean you can't pursue these projects after capstones.
+
 * [Project Theme Expectations](https://github.com/tombetthauser/module-7-welcome/blob/main/Project%20Theme%20Expectations%20-%20Student%20Facing%20Discussion.pdf)
+
+
+---
+
+## Potentially Useful Development Links
+
+<!-- * [Module 7 Expectations](https://hackmd.io/@jwarren/Sycd24fId) -->
+<!-- * [Example Project Wiki (doesn't include readme or user stories)](https://github.com/chrisoney/mercenary-review/wiki) -->
+<!-- * [Asking Good Questions](https://hackmd.io/@jwarren/Hkt6Ew9S_) -->
 * [Free Development Design Resources](https://github.com/bradtraversy/design-resources-for-developers#stock-photos)
 * [Express Project Starter](https://drive.google.com/file/d/16wNaP57ICFULb1F3YeZ4MH80hWrUZO8-/view)
 * [Flask Project Starter](https://github.com/appacademy-starters/python-project-starter)
