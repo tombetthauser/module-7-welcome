@@ -1,5 +1,5 @@
 <!-- ![welcome](https://gifimage.net/wp-content/uploads/2017/09/animated-welcome-gif-12.gif) -->
-![marathon](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.lowgif.com%2Fmedium%2F843ae510cfd8baba-ellen-gordon-cpas-4-a-cause-5k-run-walk.gif&f=1&nofb=1)
+<!-- ![marathon](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.lowgif.com%2Fmedium%2F843ae510cfd8baba-ellen-gordon-cpas-4-a-cause-5k-run-walk.gif&f=1&nofb=1) -->
 
 # Tom's Module 7 Welcome Pack
 
@@ -23,8 +23,8 @@ This calendar is your primary resource for knowing what you should be working on
 
 You must submit this form and get approval from your lead circle TA before starting any work on your capstone project. Any work you do while waiting for approval may have to be completely re-done based on TA feedback.
 
-<!-- [Project Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSeGVXOG9IKf3iGPWZRcSMEepB8eS5xQEt4nGhmoFhQBBBBSWA/viewform?usp=sf_link) (updated) -->
 [Project Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLScBbMqc8VDb0VmOJduQf1ZEwZsxD3k1DL_uFzJ782LwgBXCZg/viewform?usp=sf_link)
+<!-- [Project Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSeGVXOG9IKf3iGPWZRcSMEepB8eS5xQEt4nGhmoFhQBBBBSWA/viewform?usp=sf_link) (updated) -->
 
 Don't over-complicate your capstone, this is essentially a 1.5 week project and the stakes are high. The simpler you keep this proposal, the faster it will be approved and the higher the chance will be that you will knock it out of the park and go on successfully into job search. Choose a project that you feel confident that you could build in half the time you're being given. This is the professional move for an engineer under a tight inflexible deadline.
 
