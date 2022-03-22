@@ -122,7 +122,10 @@ Because the TA's are asked to answer all questions asynchronously when possible 
 The eyeballs mean the TA's are aware of the question and are looking into it / discussing it in the Staff Room. There may be other questions ahead of yours and it make take minutes or hours to resolve the question based on the complexity of the problem and how clear the question was, if screenshots or commits were provided etc.
 
 # ✅
-The green check means the question seems to have been resolved by a TA or other student. If this isn't correct tag one of the TA's in the thread or re-post the question.
+The green check means that a TA or the student has confirmed that the question has been resolved. If this isn't correct tag one of the TA's in the thread or re-post the question.
+
+# ☑️
+The gray or blue check means the question seems to have been resolved by a TA or other student but is awaiting some form of confirmation.
 
 # ⚠️
 The alert emoji means the question may not be specific enough or may not show clear evidence of independent student research on AAO, Stack Overflow, Google etc. 
