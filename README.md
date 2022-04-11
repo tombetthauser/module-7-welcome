@@ -4,13 +4,13 @@
 <!-- ![house2](https://i.pinimg.com/originals/46/cb/a9/46cba9f93a3d437db6d42f4bcd1a5f5f.gif) -->
 <!-- ![nyc](https://www.insideoutgroup.co.uk/wp-content/uploads/2018/02/One_World_Centre_Building_Time_Lapse-.gif) -->
 <!-- ![bbq](https://media.tenor.co/images/8a95f6c7faba89227ff436a250a53948/raw) -->
-![house](https://i.pinimg.com/originals/21/a0/48/21a048683eac0167afde15a1dae633e0.gif)
+<!-- ![house](https://i.pinimg.com/originals/21/a0/48/21a048683eac0167afde15a1dae633e0.gif) -->
 <!-- ![welcome](https://gifimage.net/wp-content/uploads/2017/09/animated-welcome-gif-12.gif) -->
 <!-- ![marathon](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.lowgif.com%2Fmedium%2F843ae510cfd8baba-ellen-gordon-cpas-4-a-cause-5k-run-walk.gif&f=1&nofb=1) -->
 
 # Tom's Module 7 Welcome Pack
 
-Welcome to Module 7 and your capstone project! Your final application construction project before graduation. This repo holds some links and information that you'll need during the module, especially during the first few days when you'll be proposing your capstone project ideas for approval.
+Welcome to Module 7! This repo is meant to hold some convenient links for you to use during your capstone projects but this should not be treated as the canonical source of truth for curriculum, requirements etc.
 <!-- 
 ```txt
 ⚠️ IMPORTANT NOTE: If you are checking this out before your first capstone week officially begins please make sure you are keeping your pre-capstone project your top priority. All of this should be considered secondary until that project is done.
@@ -18,7 +18,7 @@ Welcome to Module 7 and your capstone project! Your final application constructi
  -->
 ## Module Calendar
 
-This calendar is your primary resource for knowing what you should be working on at any given time and when your deadlines are. Refer to it every day and check it before asking for clarification whenever possible. 
+<!-- This calendar is your primary resource for knowing what you should be working on at any given time and when your deadlines are. Refer to it every day and check it before asking for clarification whenever possible.  -->
 
 [Module 7 Calendar Link](https://calendar.google.com/calendar/u/0/embed?src=c_al83m9o7es4b69frh3mk41ia68@group.calendar.google.com&ctz=America/Los_Angeles)
 
@@ -33,9 +33,11 @@ You must submit this form and get approval from your lead circle TA before start
 [Project Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLScBbMqc8VDb0VmOJduQf1ZEwZsxD3k1DL_uFzJ782LwgBXCZg/viewform?usp=sf_link)
 <!-- [Project Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSeGVXOG9IKf3iGPWZRcSMEepB8eS5xQEt4nGhmoFhQBBBBSWA/viewform?usp=sf_link) (updated) -->
 
-Don't over-complicate your capstone, this is essentially a 1.5 week project and the stakes are high. The simpler you keep this proposal, the faster it will be approved and the higher the chance will be that you will knock it out of the park and go on successfully into job search. Choose a project that you feel confident that you could build in half the time you're being given. This is the professional move for an engineer under a tight inflexible deadline.
+Don't over-complicate your capstone, this is essentially a 1.5 week project and the stakes are high. The simpler you keep this proposal, the faster it will be approved and the higher the chance will be that you will knock it out of the park! 
 
-With all that said don't forget to pick something fun if you can. Regardless we're excited to see what you all pick so we can get you approved!
+<!-- Choose a project that you feel confident that you could build in half the time you're being given. This is the professional move for an engineer under a tight inflexible deadline.
+ -->
+<!-- With all that said don't forget to pick something fun if you can. Regardless we're excited to see what you all pick so we can get you approved! -->
 
 ---
 
