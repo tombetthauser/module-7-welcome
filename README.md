@@ -28,12 +28,12 @@ Welcome to Module 7! This repo is meant to hold some convenient links for you to
 
 ## Capstone Project Proposals
 
-You must submit this form and get approval from your lead circle TA before starting any work on your capstone project. Any work you do while waiting for approval may have to be completely re-done based on TA feedback.
+You must submit this form and get approval from your lead circle TA before starting any work on your capstone project. Any work you do while waiting for approval may have to be completely re-done based on TA feedback. With all that said, ***don't over-complicate your capstone***, this is a 2 week project and the stakes are high!
 
 [Project Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLScBbMqc8VDb0VmOJduQf1ZEwZsxD3k1DL_uFzJ782LwgBXCZg/viewform?usp=sf_link)
 <!-- [Project Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSeGVXOG9IKf3iGPWZRcSMEepB8eS5xQEt4nGhmoFhQBBBBSWA/viewform?usp=sf_link) (updated) -->
 
-Don't over-complicate your capstone, this is essentially a 1.5 week project and the stakes are high. The simpler you keep this proposal, the faster it will be approved and the higher the chance will be that you will knock it out of the park! 
+
 
 <!-- Choose a project that you feel confident that you could build in half the time you're being given. This is the professional move for an engineer under a tight inflexible deadline.
  -->
@@ -43,9 +43,47 @@ Don't over-complicate your capstone, this is essentially a 1.5 week project and 
 
 ## Projects with Strong Success Rates
 
-Here are some clone ideas that tend to be associated with successful student capstone projects from the perspective of the TAs, although they are of course no garuantee of success. Some are less work than others, specifically those that can go without AWS and there are definitely more that can be added here, but these ones often correlate with successful and strong looking final projects so keep them in mind. 
+Here are some capstone project ideas that tend to be associated with success in the observations of the TAs, but of course they are not a garuantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate.
 
-* [Instagram](https://www.instagram.com/)
+### Projects that can look fantastic without AWS:
+* Trello
+* Quora
+* Todoist (Remember the Milk but with a more modern UI)
+* Reddit
+* Evernote
+* Eventbrite (or StubHub, TicketMaster etc)
+* Amazon
+* Zenni
+* West Elm
+* Kayak (or Orbit etc)
+* Air BnB 
+* New York Times Recipes
+* Yelp
+* Venmo
+
+### Project that we strongly suggest have AWS:
+* Pinterest
+* Flikr
+* FaceBook
+* Bumble (or Hinge, FarmersOnly)
+* Instagram
+* GoFundMe (or Patreon etc)
+
+
+## Projects We've Seen Students Struggle With:
+
+Also for whatever it's worth here is a short list of projects that we see students struggle with regularly for a variety of reasons. You can absolutely choose one of these projects, just don't take them lightly.
+
+* Discord 
+* Soundcloud
+* Spotify
+* Robinhood
+* YouTube
+* Netflix
+* Game Apps (LiPoker / LiChess / D&D themed / Magic themed etc)
+
+
+<!-- * [Instagram](https://www.instagram.com/)
 * [Air BnB](https://www.airbnb.com/)
 * [Yelp](https://www.yelp.com/)
 * [Quora](https://www.quora.com/?share=1)
@@ -55,7 +93,7 @@ Here are some clone ideas that tend to be associated with successful student cap
 * [Evernote](https://evernote.com/)
 * [West Elm](https://www.westelm.com/)
 * [Robinhood](https://robinhood.com/us/en/)
-* [Trello](https://trello.com/)
+* [Trello](https://trello.com/) -->
 
 ---
 
@@ -129,7 +167,7 @@ The green check means that a TA or the student has confirmed that the question h
 # ☑️
 The gray or blue check means the question seems to have been resolved by a TA or other student but is awaiting some form of confirmation.
 
-# ⚠️
+# ⚠️ or ❌
 The alert emoji means the question may not be specific enough or may not show clear evidence of independent student research on AAO, Stack Overflow, Google etc. 
 
 Before the TA's can effectively address the question the student will need to add more information, full-screen screenshots, a description of what you have done so far in terms of research and solution attempts and/or a link to the repo with a recent commit message clearly describing the issue.
