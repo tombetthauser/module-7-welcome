@@ -41,6 +41,18 @@ You must submit this form and get approval from your lead circle TA before start
 
 ---
 
+## Github Wiki Example Links
+
+* [Exemplary Readme (one paragraph minimum / no starter repo text)](https://github.com/sezder/HQ/blob/main/README.md)
+* [Exemplary User Stories (CRUD format](https://github.com/sezder/HQ/wiki/User-Stories)
+* [Exemplary Schema (3-6 tables for MVP Schema)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
+* [Exemplary API Routes (keep it simple / RESTful)](https://github.com/sezder/HQ/wiki/API-Routes)
+* [Exemplary Wireframes (screenshots ok if cloning / if not full wireframes required)](https://github.com/chrisoney/mercenary-review/wiki/Wireframes-and-Front-End-Routes)
+
+<!-- [user stories requirements](https://docs.google.com/document/d/1LzfYEuvd-WcHkGVycn1d95kXgoIbvrAyzAkcR9C8z2g/edit) -->
+
+---
+
 ## Projects with Strong Success Rates
 
 Here are some capstone project ideas that tend to be associated with success in the observations of the TAs, but of course they are not a garuantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate.
@@ -114,18 +126,6 @@ Remember, a successful capsone project does not need AWS, Google Maps, Web Socke
 
 ![mvps](https://i.imgur.com/vfIpcWn.png) -->
 
-
----
-
-## Github Wiki Example Links
-
-* [Exemplary Readme (one paragraph minimum / no starter repo text)](https://github.com/sezder/HQ/blob/main/README.md)
-* [Exemplary User Stories (CRUD format](https://github.com/sezder/HQ/wiki/User-Stories)
-* [Exemplary Schema (3-6 tables for MVP Schema)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
-* [Exemplary API Routes (keep it simple / RESTful)](https://github.com/sezder/HQ/wiki/API-Routes)
-* [Exemplary Wireframes (screenshots ok if cloning / if not full wireframes required)](https://github.com/chrisoney/mercenary-review/wiki/Wireframes-and-Front-End-Routes)
-
-<!-- [user stories requirements](https://docs.google.com/document/d/1LzfYEuvd-WcHkGVycn1d95kXgoIbvrAyzAkcR9C8z2g/edit) -->
 
 ---
 
