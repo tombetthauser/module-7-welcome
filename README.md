@@ -161,7 +161,7 @@ Because the TA's are asked to answer all questions asynchronously when possible 
 
 
 # 👀
-The eyeballs mean the TA's are aware of the question and are looking into it / discussing it in the Staff Room. There may be other questions ahead of yours and it make take minutes or hours to resolve the question based on the complexity of the problem and how clear the question was, if screenshots or commits were provided etc.
+The eyeballs mean the TA's are aware of the question and are looking into it / discussing it in the Staff Room. There may be other questions ahead of yours and it make take time to resolve the question based on the complexity of the problem and how clear the question was, if screenshots or commits were provided etc.
 
 # ✅
 The green check means that a TA or the student has confirmed that the question has been resolved. If this isn't correct tag one of the TA's in the thread or re-post the question.
@@ -174,11 +174,11 @@ The alert emoji means the question may not be specific enough or may not show cl
 
 Before the TA's can effectively address the question the student will need to add more information, full-screen screenshots, a description of what you have done so far in terms of research and solution attempts and/or a link to the repo with a recent commit message clearly describing the issue.
 
-Once you have added to the question tag the TA who added the alert emoji in the question thread or re-post a new version of the question in the lecture questions channel.
+Once you have added to the question tag the TAs or re-post a new version of the question in the lecture questions channel.
 
 ### Good Question Template
 
-Feel free to literally copy, paste and fill this out when asking a question in slack. The Mod 7 team may ask you to do so if it seems like it might help.
+To ensure the quickest possible response to a question you are encouraged to literally copy, paste and fill this out when asking a question in slack. The Mod 7 team may ask you to do so if it seems like it might help expedite answering your question.
 
 1. What are you working on? (give us some context)
 2. Describe the problem (what are you trying to do? what is it currently doing?)
