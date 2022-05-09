@@ -209,6 +209,6 @@ To ensure the quickest possible response to a question you are encouraged to lit
 
 Projects will be pre-graded the Thursday of the second week of capstone development. Our grading process will be identicle to the final grading process and students will recieve pregrading scorecards. There are no requirements associated with pre-grading and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly complete so we can point out minor edits / corrections that will make your project passing the following Monday when projects are due. And if your project passes at pregrading all you'll have to do is not break your site over the weekend!
 
-![Example Scorecard](https://docs.google.com/spreadsheets/d/1ugK44u9KyT_EmPlRiNtsZgCTRY25mVzx2qZo915jo0c/edit?usp=sharing)
+[Example Scorecard](https://docs.google.com/spreadsheets/d/1ugK44u9KyT_EmPlRiNtsZgCTRY25mVzx2qZo915jo0c/edit?usp=sharing)
 
 Note: you DO NOT have to create your own scorecard, the Mod 7 team will do this for you.
