@@ -45,7 +45,7 @@ You must submit this form and get approval from your the Mod 7 team before start
 
 ## Github Wiki Example Links
 
-* [Exemplary Readme (one paragraph minimum / no starter repo text)](https://github.com/sezder/HQ/blob/main/README.md)
+<!-- * [Exemplary Readme (one paragraph minimum / no starter repo text)](https://github.com/sezder/HQ/blob/main/README.md) -->
 * [Exemplary User Stories (CRUD format](https://github.com/sezder/HQ/wiki/User-Stories)
 * [Exemplary Schema (3-6 tables for MVP Schema)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
 * [Exemplary API Routes (keep it simple / RESTful)](https://github.com/sezder/HQ/wiki/API-Routes)
