@@ -119,11 +119,11 @@ Remember, a successful capsone project does not need AWS, Google Maps, Web Socke
 
 ## Github Wiki Example Links
 
-* [Exemplary Readme](https://github.com/sezder/HQ/blob/main/README.md)
-* [Exemplary User Stories](https://github.com/sezder/HQ/wiki/User-Stories)
-* [Exemplary Schema](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
-* [Exemplary API Routes](https://github.com/sezder/HQ/wiki/API-Routes)
-* [Exemplary Wireframes](https://github.com/chrisoney/mercenary-review/wiki/Wireframes-and-Front-End-Routes)
+* [Exemplary Readme (one paragraph minimum / no starter repo text)](https://github.com/sezder/HQ/blob/main/README.md)
+* [Exemplary User Stories (CRUD format](https://github.com/sezder/HQ/wiki/User-Stories)
+* [Exemplary Schema (3-6 tables for MVP Schema)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
+* [Exemplary API Routes (keep it simple / RESTful)](https://github.com/sezder/HQ/wiki/API-Routes)
+* [Exemplary Wireframes (screenshots ok if cloning / if not full wireframes required)](https://github.com/chrisoney/mercenary-review/wiki/Wireframes-and-Front-End-Routes)
 
 <!-- [user stories requirements](https://docs.google.com/document/d/1LzfYEuvd-WcHkGVycn1d95kXgoIbvrAyzAkcR9C8z2g/edit) -->
 
