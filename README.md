@@ -199,6 +199,6 @@ Projects will be pre-graded the Thursday of the second week of capstone developm
 
 ## Example Scorecard
 
-!(sample scorecard)[https://docs.google.com/spreadsheets/d/1ugK44u9KyT_EmPlRiNtsZgCTRY25mVzx2qZo915jo0c/edit?usp=sharing]
+![sample scorecard](https://docs.google.com/spreadsheets/d/1ugK44u9KyT_EmPlRiNtsZgCTRY25mVzx2qZo915jo0c/edit?usp=sharing)
 
 Note: you DO NOT have to create your own scorecard, the Mod 7 team will do this for you.
