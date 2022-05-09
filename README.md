@@ -191,18 +191,14 @@ Once you have added to the question tag the TA who added the alert emoji in the 
 <!-- [New Asking Questions Guide with Emojis](https://docs.google.com/document/d/1LMgYJ0TgZBdbE-D7rEQLAXyRWesSJl5aR_H2KPUJhCQ/edit#) -->
 <!-- [Leah's Module 6 Link](https://docs.google.com/spreadsheets/d/1GyViJX0PZxBcgtkcurtHMGEgI08YitHX1M_vpHmV1rU/edit#gid=0) -->
 
-<!-- ---
+---
 
-# Phase 3 - Grading
+# Phase 3 - Pregrading / Grading
 
-## Capstone Scorecards
+Projects will be pre-graded the Thursday of the second week of capstone development. Our grading process will be identicle to the final grading process and students will recieve pregrading scorecards. There are no requirements associated with pre-grading and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly complete so we can point out minor edits / corrections that will make your project passing the following Monday when projects are due. And if your project passes at pregrading all you'll have to do is not break your site over the weekend!
 
-!(sample scorecard)[https://lh3.googleusercontent.com/oXWP12GslsA4LTultMPXC1CL8cNNx3EFcZTyiYduUfOspIBd7Bzf3kqlKSCcZ8j1DbAy2oqptbaM-3KajPpFNmVfbT24kxVqqzm7DnCYbuZqIu2U2wfcbye7AJHxB9Tz5w0vBon3hJ5_]
+## Example Scorecard
 
-## Pre-Grading 
+!(sample scorecard)[https://docs.google.com/spreadsheets/d/1ugK44u9KyT_EmPlRiNtsZgCTRY25mVzx2qZo915jo0c/edit?usp=sharing]
 
-## Final Grading
-
-## Deferrals
-
-## Dismissals -->
+Note: you DO NOT have to create your own scorecard, the Mod 7 team will do this for you.
