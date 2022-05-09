@@ -176,6 +176,16 @@ Before the TA's can effectively address the question the student will need to ad
 
 Once you have added to the question tag the TA who added the alert emoji in the question thread or re-post a new version of the question in the lecture questions channel.
 
+### Good Question Template
+
+Feel free to literally copy, paste and fill this out when asking a question in slack. The Mod 7 team may ask you to do so if it seems like it might help.
+
+1. What are you working on? (give us some context)
+2. Describe the problem (what are you trying to do? what is it currently doing?)
+3. What error messages do you have?
+4. What have you done to debug? What have you searched/tried?
+5. Relevant code snippets/screenshots (crop, mark-up, or explain them)
+
 ---
 
 ## Some Useful Development Links
