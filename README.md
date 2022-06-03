@@ -13,11 +13,11 @@
 Welcome to Module 7! This repo is meant to hold some convenient links for you to use during your capstone projects but this should not be treated as the canonical source of truth for curriculum, requirements etc.
 
 Note: This is a living document. Things will be continuously changed and updated as needed but capstone requirements WILL NOT change! : )
-<!-- 
+
 ```txt
 ⚠️ IMPORTANT NOTE: If you are checking this out before your first capstone week officially begins please make sure you are keeping your pre-capstone project your top priority. All of this should be considered secondary until that project is done.
 ```
- -->
+
 ## Module Calendar
 
 <!-- This calendar is your primary resource for knowing what you should be working on at any given time and when your deadlines are. Refer to it every day and check it before asking for clarification whenever possible.  -->
