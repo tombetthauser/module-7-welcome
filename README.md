@@ -8,7 +8,7 @@
 <!-- ![welcome](https://gifimage.net/wp-content/uploads/2017/09/animated-welcome-gif-12.gif) -->
 <!-- ![marathon](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.lowgif.com%2Fmedium%2F843ae510cfd8baba-ellen-gordon-cpas-4-a-cause-5k-run-walk.gif&f=1&nofb=1) -->
 
-# Tom's Module 7 Welcome Pack
+# Module 7 Welcome Pack
 
 Welcome to Module 7! This repo is meant to hold some convenient links for you to use during your capstone projects but this should not be treated as the canonical source of truth for curriculum, requirements etc.
 
