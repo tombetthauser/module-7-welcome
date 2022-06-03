@@ -192,6 +192,10 @@ To ensure the quickest possible response to a question you are encouraged to lit
 
 ---
 
+## FAAQs | Frequently/Any Asked Questions
+> _An informal and very incomplete list of somewhat common and / or unique problems observed by the Mod 7 TAs during capstone project development._
+* [Capstone FAAQs](https://github.com/tombetthauser/fullstack-faqs)
+
 ## Some Useful Development Links
 
 <!-- * [Module 7 Expectations](https://hackmd.io/@jwarren/Sycd24fId) -->
@@ -202,6 +206,8 @@ To ensure the quickest possible response to a question you are encouraged to lit
 * [Flask-SQLAlchemy Quick Reference](https://hackmd.io/@app-academy/flask-sqlalchemy-reference)
 * [Flask AWS S3 for Image Uploads](https://hackmd.io/4yEAJpBXSWCZmI16J5ID1Q)
 * [Flask Websockets for Chat Features](https://hackmd.io/oTn-ZTjcQRO5Ghbv9tO9ug)
+* [Helpful Heroku Tips](https://github.com/whitnessme/helpful-heroku-tips)
+* [Easy Modals Using React Context!](https://github.com/whitnessme/context-modal-instructions)
 <!-- * [Free Development Design Resources](https://github.com/bradtraversy/design-resources-for-developers#stock-photos) -->
 
 <!-- [New Asking Questions Guide with Emojis](https://docs.google.com/document/d/1LMgYJ0TgZBdbE-D7rEQLAXyRWesSJl5aR_H2KPUJhCQ/edit#) -->
