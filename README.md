@@ -95,7 +95,7 @@ Here are some capstone project ideas that tend to be associated with success in 
 * YouTube (AWS strongly suggested)
 * Netflix (AWS optional / CRUD features are tricky)
 * Game Apps (AWS optional / CRUD features are tricky)
-* Disney (AWS optional / CRUD features are tricky)
+* Disney + (AWS optional / CRUD features are tricky)
 
 
 ---
