@@ -56,59 +56,47 @@ You must submit this form and get approval from your the Mod 7 team before start
 
 ---
 
-## Projects with Strong Success Rates
+## Projects We've Seen Go Well
 
 Here are some capstone project ideas that tend to be associated with success in the observations of the TAs, but of course they are not a garuantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate.
 
+
 ### Projects that can look fantastic without AWS:
-* Trello
-* Quora
 * Todoist (Remember the Milk but with a more modern UI)
-* Reddit
-* Evernote
-* Eventbrite (or StubHub, TicketMaster etc)
-* Amazon
-* Zenni
-* West Elm
-* Kayak (or Orbit etc)
-* Air BnB 
+* Amazon (Cart can't be an MVP CRUD feature, Reviews & Orders suggested)
+* Etsy (Cart can't be an MVP CRUD feature)
 * New York Times Recipes
+* Untapped
+* Trello
+* Air BnB
+* Medium
+* Quora
+* Twitter
+* Evernote
+* HipCamp
+* Eventbrite
+* Reddit
 * Yelp
-* Venmo
 
 ### Project that we strongly suggest have AWS:
+* Instagram
 * Pinterest
 * Flikr
 * FaceBook
-* Bumble (or Hinge, FarmersOnly)
-* Instagram
-* GoFundMe (or Patreon etc)
 
 
-## Projects We've Seen Students Struggle With:
+### Projects We've See Students Struggle With:
 
-Also for whatever it's worth here is a short list of projects that we see students struggle with regularly for a variety of reasons. You can absolutely choose one of these projects, just don't take them lightly.
+* Discord (AWS optional)
+* Soundcloud (AWS strongly suggested)
+* Spotify (AWS strongly suggested)
+* Venmo (AWS optional / CRUD features are tricky)
+* Robinhood (AWS optional / CRUD features are tricky)
+* YouTube (AWS strongly suggested)
+* Netflix (AWS optional / CRUD features are tricky)
+* Game Apps (AWS optional / CRUD features are tricky)
+* Disney (AWS optional / CRUD features are tricky)
 
-* Discord 
-* Soundcloud
-* Spotify
-* Robinhood
-* YouTube
-* Netflix
-* Game Apps (LiPoker / LiChess / D&D themed / Magic themed etc)
-
-
-<!-- * [Instagram](https://www.instagram.com/)
-* [Air BnB](https://www.airbnb.com/)
-* [Yelp](https://www.yelp.com/)
-* [Quora](https://www.quora.com/?share=1)
-* [Reddit](https://www.reddit.com/)
-* [Todoist](https://todoist.com/) (Remember the Milk but with a more modern UI)
-* [New York Times Recipes](https://cooking.nytimes.com/)
-* [Evernote](https://evernote.com/)
-* [West Elm](https://www.westelm.com/)
-* [Robinhood](https://robinhood.com/us/en/)
-* [Trello](https://trello.com/) -->
 
 ---
 
