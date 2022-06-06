@@ -46,11 +46,11 @@ You must submit this form and get approval from your the Mod 7 team before start
 
 ## Github Wiki Example Links
 > User stories, Database Schema, API Routes, Wireframes are _required._
-<!-- * [Exemplary Readme (one paragraph minimum / no starter repo text)](https://github.com/sezder/HQ/blob/main/README.md) -->
-* [Exemplary User Stories (CRUD format](https://github.com/sezder/HQ/wiki/User-Stories)
-* [Exemplary Schema (3-6 tables for MVP Schema)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
-* [Exemplary Features (2 MVP CRUD features and 2-3 bonus features for post-graduation)](https://github.com/chrisoney/mercenary-review/wiki/MVP-Feature-List)
-* [Exemplary Wireframes (screenshots ok if cloning / if not full wireframes required)](https://github.com/chrisoney/mercenary-review/wiki/Wireframes-and-Front-End-Routes)
+<!-- * [Example Readme (one paragraph minimum / no starter repo text)](https://github.com/sezder/HQ/blob/main/README.md) -->
+* [Example User Stories (CRUD format](https://github.com/sezder/HQ/wiki/User-Stories)
+* [Example Schema (3-6 tables for MVP Schema)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
+* [Example Features (2 MVP CRUD features and 2-3 bonus features for post-graduation)](https://github.com/chrisoney/mercenary-review/wiki/MVP-Feature-List)
+* [Example Wireframes (screenshots ok if cloning / if not full wireframes required)](https://github.com/chrisoney/mercenary-review/wiki/Wireframes-and-Front-End-Routes)
 
 <!-- [user stories requirements](https://docs.google.com/document/d/1LzfYEuvd-WcHkGVycn1d95kXgoIbvrAyzAkcR9C8z2g/edit) -->
 
