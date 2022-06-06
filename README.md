@@ -34,8 +34,7 @@ You must submit this form and get approval from your the Mod 7 team before start
 ⚠️ IMPORTANT NOTE: If you are checking this out before your first capstone week officially begins you are welcome to fill out this form but you will have to fill it out again on Monday / Tuesday officially.
 ```
 
-[Project Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSdiKzbJwaGmhAo8Rt63ev1GRnVhQwVcbwmMWLIWh0EHTEpyJA/viewform?usp=sf_link)
-<!-- [Project Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSeGVXOG9IKf3iGPWZRcSMEepB8eS5xQEt4nGhmoFhQBBBBSWA/viewform?usp=sf_link) (updated) -->
+[Project Proposal Form (January 2022)](https://forms.gle/BqxBM5faMVqvebBE9)
 
 
 
