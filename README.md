@@ -48,7 +48,7 @@ You must submit this form and get approval from your the Mod 7 team before start
 ## Github Wiki Example Links
 > User stories, Database Schema, Features, Wireframes are _required._
 <!-- * [Example Readme (one paragraph minimum / no starter repo text)](https://github.com/sezder/HQ/blob/main/README.md) -->
-* [Example User Stories (CRUD format](https://github.com/sezder/HQ/wiki/User-Stories)
+* [Example User Stories (CRUD format)](https://github.com/sezder/HQ/wiki/User-Stories)
 * [Example Schema (3-6 tables for MVP Schema)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
 * [Example Features (2 MVP CRUD features and 2-3 bonus features for post-graduation)](https://github.com/chrisoney/mercenary-review/wiki/MVP-Feature-List)
 * [Example Wireframes (screenshots ok if cloning / if not full wireframes required)](https://github.com/chrisoney/mercenary-review/wiki/Wireframes-and-Front-End-Routes)
