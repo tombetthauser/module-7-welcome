@@ -220,3 +220,6 @@ Note: you DO NOT have to create your own scorecard, the Mod 7 team will do this 
 ## Passing Capstone Help
 
 * [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages)
+
+## Helpful styling tips
+https://docs.google.com/document/d/1VkeCDf12jokoTdriQycheyfnlfdc-qypDXsxCO5tqNk/edit
