@@ -35,9 +35,10 @@ You must submit this form and get approval from your the Mod 7 team before start
 ```
 
 <!-- [Project Proposal Form (January 2022)](https://forms.gle/BqxBM5faMVqvebBE9) -->
-<!-- [link will be made available when you officially start module 7] -->
+[link will be made available when you officially start module 7]
 
-[Project Proposal Form (February 2022)](https://forms.gle/1SQFyVyJm9nEBnuJ6)
+<!-- [Project Proposal Form (February 2022)](https://forms.gle/1SQFyVyJm9nEBnuJ6) -->
+
 
 
 
