@@ -66,6 +66,8 @@ You must submit this form and get approval from your the Mod 7 team before start
 
 Here are some capstone project ideas that tend to be associated with success in the observations of the TAs, but of course they are not a garuantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate.
 
+## Projects We've Seen Go Well
+For e-commerce apps, a shopping cart would only be considered a core feature, if it has full CRUD functionality. This means that the shopping cart is connected to the database and have its own table. If you would like to implement the shopping cart in the local storage, you would need to create an orders (history) feature with full database CRUD functionality.
 
 ### Projects that can look fantastic without AWS:
 * Todoist (Remember the Milk but with a more modern UI)
