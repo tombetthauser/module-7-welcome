@@ -211,7 +211,7 @@ To ensure the quickest possible response to a question you are encouraged to lit
 
 # Phase 2.5 - Peer Review
 
-Peer Review will start on Thursday of the first week of capstone everyday at 12:30 PT / 3:30 EST. This can also be viewed on the Google Calendar as well. Students will pair up with another student to review each other's code on what they worked on. Below are guidelines to help illustrate what to expect.
+Peer Review will start on Thursday of the first week of capstone everyday at 12:30 PT / 3:30 EST. This can also be viewed on the Google Calendar as well. Students will pair up with another student to review each other's code on what they worked on. Below are guidelines to help illustrate how peer review looks like.
 
 
 ---
