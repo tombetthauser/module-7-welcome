@@ -211,8 +211,38 @@ To ensure the quickest possible response to a question you are encouraged to lit
 
 # Phase 2.5 - Peer Review
 
-Peer Review will start on Thursday of the first week of capstone everyday at 12:30 PT / 3:30 EST. This can also be viewed on the Google Calendar as well. Students will pair up with another student to review each other's code on what they worked on. Below are guidelines to help illustrate how peer review looks like.
+Peer Review will start on Thursday of the first week of capstone everyday after lunch, at 12:30 PT / 3:30 EST. This can also be viewed on the [Mod 7 Online Google Calender](https://calendar.google.com/calendar/u/0/embed?src=c_al83m9o7es4b69frh3mk41ia68@group.calendar.google.com&ctz=America/Los_Angeles) as well. Students will get assigned a pair, posted to Slack everyday, to review each other's code. Below are guidelines to help illustrate how peer review will work.
 
+> This exercise is helpful to practice remembering what your code does for when an interviewer or coworker asks you to explain parts of your code. Also this helps you practice _articulating_ your code which will **majorly** help you in interviews and on the job!
+
+## Steps:
+
+1. Choose who goes first. You each get 30 minutes and have a timer set up.
+2. Find a part of your code to walk through.
+    - Could be a part you are proud of, something new, your redux store, your routes, your components, your CSS, etc...
+    - Could be something you are only partially done making and then go into some basic "pseudocode" of what your next steps will be.
+        - Try to stay focused on code you do have, though. If your partner has a solution for a problem or something, it’s ok to discuss if it’s quick and write down notes (or plan to meet up afterward).
+3. Begin walking line by line, explaining the work flow of your code.
+    - You don't have to start at the very beginning of each file, but could choose which parts to go through.
+
+## Things to consider:
+
+1. This **IS NOT** time to debug or code.
+2. Both sides are responsible for getting equal time to review.
+3. Students are responsible to give and receive constructive feedback and commit to the exercise.
+4. IA’s will be jumping in rooms periodically to check progress and could possibly ask questions! 
+
+## Tips:
+
+1. Write down notes of things you notice about your own code.       
+     - Mistakes, things you missed, things you want to change, etc...
+2. Pay attention to the way your partner has coded things.
+    - Seeing how others code can give new ideas! Or solve a problem you already have!
+4. Ask clarifying questions of your partner when they are explaining.
+5. Take notice on how your partner read and understood your code so that you could gauge your work’s readability. 
+6. If your partner did have a hard time reading a line/snippet of code, be sure to add comments to those to help you understand your code in the future. 
+7. Take feedback as something constructive and helpful for improvement.(On the flip side, be aware of how you present constructive feedback)
+    3. Please use code-centric instead of human-centric language. _(refer back to AOO Week 2 Day 2 “Empathetic Communication” for a refresher!)_
 
 ---
 
