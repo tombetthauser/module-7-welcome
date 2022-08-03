@@ -93,7 +93,7 @@ For e-commerce apps, a shopping cart would only be considered a core feature, if
 * FaceBook
 
 
-### Projects We've See Students Struggle With:
+### Projects We've Seen Students Struggle With:
 
 * Discord (AWS optional)
 * Soundcloud (AWS strongly suggested)
@@ -206,6 +206,13 @@ To ensure the quickest possible response to a question you are encouraged to lit
 
 <!-- [New Asking Questions Guide with Emojis](https://docs.google.com/document/d/1LMgYJ0TgZBdbE-D7rEQLAXyRWesSJl5aR_H2KPUJhCQ/edit#) -->
 <!-- [Leah's Module 6 Link](https://docs.google.com/spreadsheets/d/1GyViJX0PZxBcgtkcurtHMGEgI08YitHX1M_vpHmV1rU/edit#gid=0) -->
+
+---
+
+# Phase 2.5 - Peer Review
+
+Peer Review will start on Thursday of the first week of capstone everyday at 12:30 PT / 3:30 EST. This can also be viewed on the Google Calendar as well. Students will pair up with another student to review each other's code on what they worked on. Below are guidelines to help illustrate what to expect.
+
 
 ---
 
