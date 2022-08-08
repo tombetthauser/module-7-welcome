@@ -28,7 +28,7 @@ Welcome to Module 7! This repo is meant to hold some convenient links for you to
 
 ## Capstone Project Proposals
 
-You must submit this form and get approval from your the Mod 7 team before starting any work on your capstone project. Any work you do while waiting for approval may have to be completely re-done based on TA feedback. With all that said, ***don't over-complicate your capstone***, this is a 2 week project and the stakes are high!
+You must submit this form and get approval from your the Mod 7 team before starting any work on your capstone project. Any work you do while waiting for approval may have to be completely re-done based on TA feedback. With all that said, ***don't over-complicate your capstone***, this is a 2 week project and the stakes are high! This will be due second day of capstone before lunch. 
 
 ```txt
 ⚠️ IMPORTANT NOTE: If you are checking this out before your first capstone week officially begins you are welcome to fill out this form but you will have to fill it out again on Monday / Tuesday officially.
